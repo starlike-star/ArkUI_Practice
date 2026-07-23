@@ -7,6 +7,8 @@
 | accepted | boolean |   `false`    | 用户是否勾选用户协议 |    用户勾选或取消勾选复选框时     |
 | role     | string  |    `'学生'`    | 用户选择的身份    |     用户在下拉选择框中切换身份时    |
 | message  | string  | `'请输入账号和密码'` | 当前表单提示信息   |    用户点击登录按钮并执行校验时     |
+
+
 ![屏幕截图](images/1.png)
 ![屏幕截图](images/2.png)
 ![屏幕截图](images/3.png)
